@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+    <root>
+<flips>
+	<turn name="flip_one" value="1" />
+	<turn name="flip_two" value="2" />
+	<turn name="flip_three" value="3" />
+</flips>
+<outcome name="outcome" value="4">
+    </root>

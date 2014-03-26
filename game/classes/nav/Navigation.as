@@ -1,0 +1,1 @@
+﻿class nav.Navigation extends MovieClip{		//private var mc_nav:Extensions;	private var mc_navigation:MovieClip;		function onRollOver(){						gotoAndPlay(nextFrame);			}	}

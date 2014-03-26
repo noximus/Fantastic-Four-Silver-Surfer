@@ -1,0 +1,8 @@
+﻿<flash_project name="Fantastic4Site" version="1">
+    <project_folder name="xml" expanded="true">
+    </project_folder>
+    <project_file path=".:Fantastic4.fla" filetype="fla" profile="" />
+    <project_file path=".:game.fla" filetype="fla" profile="" />
+    <project_file path=".:hometown.fla" filetype="fla" profile="" />
+    <project_file path=".:london.fla" filetype="fla" profile="" />
+</flash_project>

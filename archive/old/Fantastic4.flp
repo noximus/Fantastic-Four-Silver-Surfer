@@ -1,0 +1,16 @@
+﻿<flash_project name="Fantastic4" version="1">
+    <project_folder name="classes" expanded="true">
+        <project_folder name="util" expanded="true">
+            <project_folder name="xml" expanded="true">
+                <project_file path=".:classes/util/xml/XMLSA.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+        <project_folder name="ui" expanded="true">
+            <project_file path=".:classes/ui/Settings.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_folder name="xml" expanded="true">
+        <project_file path=".:xml/flips.xml" filetype="xml" />
+    </project_folder>
+    <project_file path=".:game.fla" filetype="fla" profile="" />
+</flash_project>
